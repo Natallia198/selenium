@@ -1,6 +1,4 @@
-package test.day4_finfElements_checkbox_radio;
-
-import org.openqa.selenium.By;
+/*import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import utilities.WebDriverFactory;
@@ -31,7 +29,7 @@ public class P04_SeleniumEasyCheckBoxes {
         }
 
         //4. Click to checkbox under “Single Checkbox Demo” section
-       // Thread.sleep(1000);
+        // Thread.sleep(1000);
         successCheckbox.click();
 
         //5. Verify “Success – Check box is checked” message is displayed.
@@ -43,3 +41,5 @@ public class P04_SeleniumEasyCheckBoxes {
 
     }
 }
+
+*/
